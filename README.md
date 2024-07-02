@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,golang,ts,js,html,css,python,vscode,tailwindcss&perline=5" />
+  </a>
+</p>
 
 <!--
 **intercepted16/intercepted16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
