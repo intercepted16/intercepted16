@@ -7,6 +7,14 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=intercepted16" />
+    <img src="https://github-readme-stats.vercel.app/api?username=intercepted16&theme=radical" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intercepted16&theme=radical" />
   </a>
 </div>
